@@ -33,7 +33,10 @@
       "esbuild"
     ],
     "overrides": {
-      "tar": "^7.5.17"
+      "tar": "^7.5.17",
+      "postcss": "^8.5.15",
+      "picomatch": "^4.0.4",
+      "rollup": "^4.62.2"
     }
   },
   "dependencies": {
